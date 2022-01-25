@@ -20,7 +20,7 @@
 
 ## 実装方法と構築したシステムについて
 
-```mermaid
+<!-- ```mermaid
 sequenceDiagram
     autonumber
     participant ユーザー
@@ -32,7 +32,9 @@ sequenceDiagram
     サーバー->>ブラウザー: wasmファイルへコンパイル
     ユーザー->>ブラウザー: 実行、テスト
     ブラウザー->>ユーザー: 結果の返却
-```
+``` -->
+
+![](https://mermaid.ink/svg/pako:eNqNUd1KwzAUfpWR6_kCudiVPoG3vYltpoUlrWmCyBisCYgXChP8uxC1IEMRx0AnCkIf5jitb2FiO6jSgSGE5Hw_J4evj_wooAijhG4ryn26GpJNQZjHW3YRJSOu2AYV5TsmQoZ-GBMuW2DGYN5AP9uzCT0Fcwd6vJSgZ05uRj9oidctVzqdPx7Y4mdgHkBPXdlcQzopbs-LfLpQ_6I7g1qPJvXXMH3Ps0pd4zb13iEJA3MCOgN9A-Ye0hfQj2DsPior_5thPrkqsgMYpmD2QL-C2V_6-5oTbn3ORh-XF27k_Hh--ITaiFHBSBjY7PrOwkNyizLqIWyvAe0S1ZMe8vjAUlUcEEnXglBGAuEu6SW0jVy467vcR1gKRRekKv-KNfgG9iAXhg)
 
 簡略化した本システムのシーケンス図を図 xx に示す。
 
